@@ -1,3 +1,0 @@
-# screen-record.py
-- 👋 Hi, I’m @sajiharan
-- python PROJECT...
